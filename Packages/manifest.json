@@ -56,6 +56,7 @@
     "com.unity.modules.xr": "1.0.0",
     "com.unity.ai.assistant": "2.21.0-pre.2",
     "com.unity.ai.inference": "2.6.1",
-    "com.unity.pipeline": "0.9.1-exp.1"
+    "com.unity.pipeline": "0.9.1-exp.1",
+    "com.unity.ai.navigation": "2.0.14"
   }
 }
